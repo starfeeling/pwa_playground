@@ -22,7 +22,7 @@
   }
 
   const app = {
-	  apiURL: 'https://cors-anywhere.herokuapp.com/52.74.172.222:3001/api/v1/search',
+	apiURL: 'https://dev.starfeeling.net/api/v1/search',
 	cardTemplate: document.querySelector('.card-template')
   }
 
