@@ -1,6 +1,6 @@
 {
-  "short_name": "Git Trends",
-  "name": "Git Trends",
+  "short_name": "APM PWA Demo",
+  "name": "APM PWA Demo",
   "icons": [
     {
       "src":"images/gt-icon192x192.png",
@@ -8,7 +8,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "/gittrends?utm_source=homescreen",
+  "start_url": "/",
   "background_color": "#009688",
   "theme_color": "#009688",
   "display": "standalone"
