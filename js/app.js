@@ -22,7 +22,7 @@
   }
 
   const app = {
-	apiURL: 'http://localhost:3001/api/v1/search',
+	apiURL: 'http://52.74.172.222:3001/api/v1/search',
 	cardTemplate: document.querySelector('.card-template')
   }
 
